@@ -1,0 +1,23 @@
+{
+    "people": [{
+        "question": "Jabu is a legend who now stays in South Africa. True or False?",
+        "choice1": "True",
+        "choice2": "False",
+        "answer": 1
+    }, {
+        "question": "Jabu is a legend who now stays in South Africa. True or False?",
+        "choice1": "True",
+        "choice2": "False",
+        "answer": 1
+    }, {
+        "question": "Jabu is a legend who now stays in South Africa. True or False?",
+        "choice1": "True",
+        "choice2": "False",
+        "answer": 1
+    }, {
+        "question": "Jabu is a legend who now stays in South Africa. True or False?",
+        "choice1": "True",
+        "choice2": "False",
+        "answer": 1
+    }]
+}
